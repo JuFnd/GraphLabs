@@ -7,7 +7,7 @@
 ### Стэк:
 
 #### Language: 
-C++(std=C++17) [^1]
+C++(std=C++17)
 
 #### Libs:
 OpenGL(Core-profile)
