@@ -9,4 +9,4 @@ OpenGL(Core-profile)
 STL
 
 ### Задания
-[^1]:[Labs_1_2](https://movie-hub.ru)
+[^1]:[Labs_1_2](https://movie-hub.ru/)
