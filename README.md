@@ -7,11 +7,11 @@
 ### Стэк:
 
 #### Language: 
-C++(std=C++17)
+- C++(std=C++17)
 
 #### Libs:
-OpenGL(Core-profile)
-STL
+- OpenGL(Core-profile)
+- STL
 
 ### Ссылки:
 [^1]: [Labs_1_2](https://registry.khronos.org/OpenGL/index_gl.php)
