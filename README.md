@@ -13,4 +13,4 @@
 - STL
 
 ### Ссылки:
-[^1]: [Labs_1_2](https://registry.khronos.org/OpenGL/index_gl.php)
+[^1]: [Labs_1_2](https://github.com/JuFnd/GraphLabs/blob/main/Labs%201-2/labs1-2.md)
